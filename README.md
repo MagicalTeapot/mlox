@@ -1,2 +1,2 @@
 # mlox
-A C++ implementation of the Lox programming language
+An implementation of the [Lox programming language](https://craftinginterpreters.com)
